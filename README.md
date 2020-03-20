@@ -9,7 +9,7 @@ To know more about **Squad2.0** dataset click [here](https://rajpurkar.github.io
 
 
 Dependencies :
-```python
+```
 
 pip install pytorch-pretrained-bert
 pip install Flask
