@@ -27,7 +27,9 @@ pip install Flask
 > - **test.py**
 
 ### RESULT 
-#### Input Para :
+> **Input Para :**
 > - Coronavirus disease 2019 (COVID-19) is an infectious disease caused by the virus strain "severe acute respiratory syndrome coronavirus 2" (SARS-CoV-2).The disease was first identified in 2019 in Wuhan, China, and has since spread globally, resulting in the 2019–20 coronavirus pandemic.Common symptoms include fever, cough, and shortness of breath. Muscle pain, sputum production and sore throat are less common.While the majority of cases result in mild symptoms,some progress to severe pneumonia and multi-organ failure.As of 20 March 2020, the rate of deaths per number of diagnosed cases is 4.1%, but ranges from 0.2% to 15% depending on age and other health problems.
-> - 
-> 
+>
+> **Output :**
+>
+> ![Corono ques](assets/corono.png)
