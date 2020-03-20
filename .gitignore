@@ -1,0 +1,8 @@
+__pycache__
+.ipynb_checkpoints
+r.md
+para*
+file_name.txt
+Run_*
+# model/*
+*.bin
