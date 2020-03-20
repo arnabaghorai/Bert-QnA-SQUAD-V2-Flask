@@ -38,5 +38,5 @@ pip install Flask
 >
 > > **Output :**
 >
-> > ![Bert ques]()
+> > ![Bert ques](assets/bert_q.png)
 >
