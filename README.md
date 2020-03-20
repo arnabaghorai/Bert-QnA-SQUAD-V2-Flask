@@ -40,3 +40,8 @@ pip install Flask
 >
 > > ![Bert ques](assets/bert_q.png)
 >
+
+### Run Flask App :
+```
+python bert_app.py
+```
